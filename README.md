@@ -52,7 +52,8 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://taiwoenoch.github.io/Clock-App/">Live Demo</a>
+## 🚀 Live Demo 
+<a href="https://taiwoenoch.github.io/Clock-App/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
