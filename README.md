@@ -52,7 +52,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="https://astonishing-figolla-d6448b.netlify.app/"></a>
+## 🚀 Live Demo <a name="https://taiwoenoch.github.io/Clock-App/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
